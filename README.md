@@ -32,8 +32,11 @@ Creating a table for places recommended to visit in California and expected pric
 |San Diego    |2days   | $170   |
 |Santa Barbara|1day    | $300   | 
 
+----
+## Pithy Quotes
+>I try to create sympathy for my characters, then turn the monsters loose. -*Stephen King*
 
-
+>Words are a lens to focus one's mind.- *Ayn Rand*
 
 
 
