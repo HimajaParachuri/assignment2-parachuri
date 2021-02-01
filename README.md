@@ -32,6 +32,11 @@ Creating a table for places recommended to visit in California and expected pric
 |San Diego    |2days   | $170   |
 |Santa Barbara|1day    | $300   | 
 
+![California](LocationsImages/SanFrancisco.jpg)
+![California](LocationsImages/LosAngeles.jpg)
+![California](LocationsImages/SanDiego.jpg)
+
+
 ----
 ## Pithy Quotes
 >I try to create sympathy for my characters, then turn the monsters loose. -*Stephen King*
