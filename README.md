@@ -7,15 +7,18 @@
 FRIED CHICKEN RECIPE
 
 1. Stir all the ingredients
->> 1.1 chicken
-2. Mix together 
-> 2.1 flour
->> 2.2 salt
->>> 2.3 pepper
+   1. chicken
+2. Mix together      
+   1. flour
+   3. salt
+   2. pepper
 
 * Deep fry in the oil for 3 minutes         
 * Serve with hot sauce 
-   >> * chilli sauce
+    * chilli sauce
+
+
+   **[AboutMe](AboutMe.md)**
 
 
 
