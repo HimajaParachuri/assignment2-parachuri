@@ -38,9 +38,18 @@ Creating a table for places recommended to visit in California and expected pric
 
 >Words are a lens to focus one's mind.- *Ayn Rand*
 
+---
+## Code Fencing
+## DBase
+> dBase was one of the first database management systems for microcomputers, and the most successful in its day.The dBase system includes the core database engine, a query system, a forms engine, and a programming language that ties all of these components together. dBase's underlying file format, the .dbf file, is widely used in applications needing a simple format to store structured data.<https://en.wikipedia.org/wiki/DBase>
 
-
-
+```
+ USE empl
+ REPLACE ALL salary WITH salary * 1.1 FOR supervisors > 0
+ LIST ALL fname, lname, salary TO PRINT
+ * (comment: reserved words shown in CAPITALS for illustration purposes) 
+ ```
+<https://en.wikipedia.org/wiki/DBase>
 
 
 
